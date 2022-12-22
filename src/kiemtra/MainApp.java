@@ -59,7 +59,7 @@ public class MainApp {
 			 if(a + b > c && a + c > b && c + b >a) {
 				 System.out.format("%d, %d, %d la do dai 3 canh cua 1 tam giac", a, b, c);
 			 }else {
-				 System.out.format("%d, %d, %d khong phai do dai la 3 canh cua 1 tam giac", a, b, c);
+				 System.out.format("%d, %d, %d khong la phai do dai 3 canh cua 1 tam giac", a, b, c);
 			 }
 		
 		 }
